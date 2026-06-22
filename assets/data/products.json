@@ -1,0 +1,66 @@
+[
+{
+"id": 1,
+"name": "Kablosuz Kulaklık",
+"description": "Günlük kullanım ve müzik deneyimi için geliştirilmiş yüksek ses kalitesine sahip kablosuz kulaklık.",
+"price": 10999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1660803972361",
+"category": "Ses Sistemleri"
+},
+{
+"id": 2,
+"name": "Premium Kulaklık",
+"description": "Uzun süreli kullanım için tasarlanmış konforlu ve güçlü ses performansı sunan kulaklık modeli.",
+"price": 25999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-silver-202011?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1604021221000",
+"category": "Ses Sistemleri"
+},
+{
+"id": 3,
+"name": "Akıllı Hoparlör",
+"description": "Ev ortamında kaliteli ses deneyimi sağlayan kompakt akıllı hoparlör.",
+"price": 6999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-orange-202110?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1632925511000",
+"category": "Ev Teknolojileri"
+},
+{
+"id": 4,
+"name": "Kablosuz Ses Sistemi",
+"description": "Yüksek ses performansı ve modern tasarımı bir araya getiren kablosuz hoparlör sistemi.",
+"price": 9999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-select-midnight-202210?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1670557210097",
+"category": "Ev Teknolojileri"
+},
+{
+"id": 5,
+"name": "Akıllı Telefon",
+"description": "Yüksek performanslı işlemcisi ve gelişmiş kamera özellikleriyle öne çıkan akıllı telefon.",
+"price": 42999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1692845702781",
+"category": "Mobil Cihazlar"
+},
+{
+"id": 6,
+"name": "Tablet Bilgisayar",
+"description": "Taşınabilir yapısı sayesinde eğitim, çalışma ve eğlence amaçlı kullanılabilen tablet.",
+"price": 18999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1645065732688",
+"category": "Mobil Cihazlar"
+},
+{
+"id": 7,
+"name": "Dizüstü Bilgisayar",
+"description": "Yazılım geliştirme, ofis çalışmaları ve günlük kullanım için uygun güçlü dizüstü bilgisayar.",
+"price": 74999,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1697311054290",
+"category": "Bilgisayar"
+},
+{
+"id": 8,
+"name": "Mini Hoparlör",
+"description": "Kompakt boyutlarıyla her ortama uyum sağlayan taşınabilir hoparlör modeli.",
+"price": 3499,
+"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-yellow-202110?wid=400&hei=400&fmt=jpeg&qlt=95&.v=1632925510000",
+"category": "Ses Sistemleri"
+}
+]
